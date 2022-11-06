@@ -1,18 +1,6 @@
 #!/usr/bin/env python3
 
-version= '3.0'
-title = '''
-
-      _ \        __ \  __ \               ___|           _)       |   
-     |   | |   | |   | |   |  _ \   __| \___ \   __|  __| | __ \  __|  
-     ___/  |   | |   | |   | (   |\__ \       | (    |    | |   | |   
-    _|    \__, |____/ ____/ \___/ ____/ _____/ \___|_|   _| .__/ \__|  
-           ____/                                            _|         
-                                                                    
- DDos python script | Script used for testing ddos | Ddos attack     
- Version:'''+version+''' 
-'''
-
+version='3.0'
 import re
 import os
 import sys
